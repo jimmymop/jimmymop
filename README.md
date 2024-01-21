@@ -1,4 +1,4 @@
-### Hi there 👋
+### README currently under creation!
 
 <!--
 **jimmymop/jimmymop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
